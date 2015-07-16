@@ -1,1 +1,1 @@
-var pepita = new Mock(0)
+var pepita = new Mock()
