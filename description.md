@@ -6,4 +6,4 @@ Aprenderemos que los objetos son <del>seres</del> cosas muy perezosas, a las que
 
 Entonces, resolver un problema en este paradigma es muy simple: necesitaremos uno o más objetos, a los cuales les daremos una tarea a resolver, y estos luego interactuarán entre sí, diviendo el problema en partes más pequeñas, y delegando algunos de estos subproblemas en sus conocidos.
 
-¡Acompañanos a adentrarnos en este mundo de objetos y conocerlos más de cerca, de la mano (o ala) de la golondrina **Pepita**!
+¡Acompañanos a adentrarnos en este mundo de objetos y conocerlos más de cerca, de la mano (o ala) de la golondrina **Pepita** y el lenguaje JavaScript!
