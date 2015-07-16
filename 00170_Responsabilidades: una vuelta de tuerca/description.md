@@ -6,7 +6,7 @@ Al principio dijimos que en un mundo de objetos, ibamos a partir los problemas t
 
 ```javascript
 pepita.gritar = function () {
-  this.cantar().toUpperCase();
+  return this.cantar().toUpperCase();
 }
 ```
 

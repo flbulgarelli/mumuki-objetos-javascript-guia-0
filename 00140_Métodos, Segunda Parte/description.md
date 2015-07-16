@@ -9,7 +9,7 @@ Lo nuevo está en las lineas siguientes: definir, dentro de pepita, un método, 
 
 ```javascript
 pepita.cantar = function() {
-  "pri pri priiiii"
+  return "pri pri priiiii"
 }
 ```
 
