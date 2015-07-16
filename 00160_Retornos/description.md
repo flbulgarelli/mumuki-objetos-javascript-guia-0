@@ -5,7 +5,7 @@ Lo que devolvimos en los ejercicios anteriores es un texto, más conocido como `
 Por ejemplo, podemos guardarlo en una variable:
 
 ```javascript
-var un_canto = pepita.cantar()
+var unCanto = pepita.cantar()
 ```
 
 O mejor, podemos usarlo directamente. Supongamos que queremos hacer que pepita grite (que es lo mismo que cantar, pero en mayúsculas):
