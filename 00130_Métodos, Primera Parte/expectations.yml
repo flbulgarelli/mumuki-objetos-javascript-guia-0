@@ -2,5 +2,5 @@
 expectations:
 - binding: pepita
   inspection: HasBinding
-- binding: pepita.cantar
+- binding: pepita.cantar()
   inspection: HasBinding
