@@ -1,0 +1,1 @@
+En javascript la manera de retornar algo es escribirlo luego de la palabra reservada `return`.
