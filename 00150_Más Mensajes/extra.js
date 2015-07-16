@@ -1,0 +1,1 @@
+var anastasia = new Mock(0)
