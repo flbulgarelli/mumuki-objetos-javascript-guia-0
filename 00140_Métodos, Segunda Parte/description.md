@@ -1,7 +1,7 @@
 Repasemos lo que escribimos: la primera línea ya la entendemos: creamos a pepita.
 
 ```javascript
-pepita = new Object()
+var pepita = new Object()
 ```
 
 Lo nuevo está en las lineas siguientes: definir, dentro de pepita, un método, el método `cantar!`
