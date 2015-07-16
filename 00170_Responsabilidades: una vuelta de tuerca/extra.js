@@ -1,4 +1,4 @@
-var pepita = new Object()
+var pepita = {}
 pepita.cantar = function() {
   return "pri pri priiiii"
 }

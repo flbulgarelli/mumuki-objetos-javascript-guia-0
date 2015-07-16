@@ -5,7 +5,7 @@ Pero también, que si le enviás un mensaje a un objeto que no sabe cómo maneja
 La forma correcta de hacer que tooodo esto funcione (¡creenos!) es la siguiente:
 
 ```javascript
-var pepita = new Object()
+var pepita = {}
 pepita.cantar = function() {
   return "pri pri priiiii"
 }

@@ -1,1 +1,1 @@
-Recordá: para crear un objeto y darle un "nombre" (**referencia**) tenés que crearlo con `new Object()` y asignalo (`=`) a la referencia.
+Recordá: para crear un objeto y darle un "nombre" (**referencia**) tenés que crearlo con `{}` y asignalo (`=`) a la referencia.
